@@ -26,7 +26,7 @@ Grâce à ce tunnel, les utilisateurs peuvent accéder au réseau local derrièr
 
 OpenVPN fonctionne avec une autorité de certification et des certificats serveur/client.
 
-> [!note] Sommaire
+> [!summary] Sommaire
 > 1. Mise en place des serveurs WEB
 > 2. Mise en place du serveur HAProxy
 > 3. Phase de test
