@@ -1,15 +1,19 @@
 <img src="assets/OpenVPN-logo.png" alt="Logo" width="150" style="vertical-align: middle; margin-right: 15px;"> TP-HAPROXY
 
 <div style="border-left: 4px solid orange; padding-left: 12px; overflow: auto;">
+
   <div style="float: left;">
-  Iwaniec  
-  <br>Hugo  
-  <br>BTS SIO  
+    Iwaniec<br>
+    Hugo<br>
+    BTS SIO
+  </div>
+
   <div style="float: right;">
     <img src="assets/file.png" alt="Logo" width="80">
   </div>
+
 </div>
-</div>
+
 
 ---
 
