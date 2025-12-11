@@ -26,7 +26,7 @@ Grâce à ce tunnel, les utilisateurs peuvent accéder au réseau local derrièr
 
 OpenVPN fonctionne avec une autorité de certification et des certificats serveur/client.
 
-> [!important] Sommaire
+> [!important] 
 > 1. Mise en place des serveurs WEB
 > 2. Mise en place du serveur HAProxy
 > 3. Phase de test
@@ -35,7 +35,7 @@ OpenVPN fonctionne avec une autorité de certification et des certificats serveu
 ## Mise en place sur PFSENSE
 
 
-> [!tip] Introduction 
+> [!tip] 
 > Depuis un PFSENSE on se retrouve avec 2 interfaces : 
 > - WAN : 192.168.20.227
 > - LAN : 192.168.90.35
@@ -77,7 +77,7 @@ Enfin on crée un utilisateur pour se connecter au VPN depuis System/User Manage
 Depuis VPN/OpenVPN/Servers, on ajoute un nouveau serveur : 
 
 
-> [!NOTE] Configuration 
+> [!NOTE] 
 > Pour la configuration :
 > 
 > On met en place un chiffrement SSL/TLS et une authentification de l'utilisateur. 
@@ -174,7 +174,7 @@ Depuis l'onglet Rules/OpenVPN, on ajoute des règles afin de limiter les accès 
 
 Cela permet de choisir ce que l'on autorise comme accès depuis le VPN, étant en labo j'ai tout laissé disponible pour tester. 
 
-> [!NOTE] Vérification
+> [!NOTE] 
 > Je cherche donc à accéder à mon VPN depuis mon PC dans le WAN.
 > 
 > <img src="assets/OpenVPN-accès.png" alt="OpenVPN-accès">
