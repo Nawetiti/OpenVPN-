@@ -26,7 +26,7 @@ Grâce à ce tunnel, les utilisateurs peuvent accéder au réseau local derrièr
 
 OpenVPN fonctionne avec une autorité de certification et des certificats serveur/client.
 
-> [!IMPORTANT] Sommaire
+> [!important] Sommaire
 > 1. Mise en place des serveurs WEB
 > 2. Mise en place du serveur HAProxy
 > 3. Phase de test
@@ -35,7 +35,7 @@ OpenVPN fonctionne avec une autorité de certification et des certificats serveu
 ## Mise en place sur PFSENSE
 
 
-> [!TIP] Introduction 
+> [!tip] Introduction 
 > Depuis un PFSENSE on se retrouve avec 2 interfaces : 
 > - WAN : 192.168.20.227
 > - LAN : 192.168.90.35
