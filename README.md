@@ -9,7 +9,7 @@
   </div>
 
   <div style="float: right;">
-    <img src="file.png" alt="Logo" width="80">
+    <img src="assets/file.png" alt="Logo" width="80">
   </div>
 
 </div>
