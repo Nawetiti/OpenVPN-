@@ -1,4 +1,4 @@
-<img src="OpenVPN-logo.png" alt="Logo" width="150" style="vertical-align: middle; margin-right: 15px;"> TP-HAPROXY
+t<img src="assets/OpenVPN-logo.png" alt="Logo" width="150" style="vertical-align: middle; margin-right: 15px;"> TP-HAPROXY
 
 <div style="border-left: 4px solid orange; padding-left: 12px; overflow: auto;">
 
@@ -14,6 +14,7 @@
 
 </div>
 ---
+
 **OpenVPN** sur pfSense est un service VPN SSL/TLS intégré qui permet de créer un tunnel chiffré entre des clients distants (PC, smartphones, sites distants) et le pare-feu. 
 
 Grâce à ce tunnel, les utilisateurs peuvent accéder au réseau local derrière pfSense comme s’ils étaient sur place, ce qui est idéal pour le télétravail ou l’administration distante. 
