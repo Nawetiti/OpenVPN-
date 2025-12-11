@@ -5,12 +5,10 @@
   Iwaniec  
   <br>Hugo  
   <br>BTS SIO  
-  </div>
-
   <div style="float: right;">
     <img src="assets/file.png" alt="Logo" width="80">
   </div>
-
+</div>
 </div>
 
 ---
